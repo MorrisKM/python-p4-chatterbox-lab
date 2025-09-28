@@ -47,4 +47,4 @@ def delete_message(id):
     return '', 204
 
 if __name__ == '__main__':
-    app.run(port=4000)
+    app.run(port=5555)
